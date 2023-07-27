@@ -1,4 +1,4 @@
-# GenetikAlgoritmaIleSifreKirma
+# Genetik Algoritma Yardımı ile Şifre Kırma
 
 Şifre 1: 'Deep Learning 2022'\
 Şifre 2: 'DeepLearning'\
