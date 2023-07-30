@@ -1,7 +1,4 @@
-﻿// Yapay Zeka Yontemleri 1. Projesinin 3. Sorusunun Cozumu
-// 05200000006, 05200000762
-
-using System;
+﻿using System;
 using System.Linq;
 
 namespace yz_genetik
